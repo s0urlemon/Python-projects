@@ -1,0 +1,6 @@
+print("Birthday list")
+print("Friend 1:19.3.2014")
+print("\nFriend 2:23.5.2014")
+print("\nFriend 3:16.7.2014")
+print("\nFriend 4:31.10.2014")
+print("\nFriend 5:15.5.2014")
